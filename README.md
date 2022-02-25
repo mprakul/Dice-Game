@@ -1,3 +1,2 @@
 # Dice-Game
-An interesting Dice game which tells the winner between 2 players upon refreshing the page!!
-Technology Stack : HTML, CSS, JavaScript 
+An interesting Dice game which tells the winner between 2 players upon refreshing the page!! 
