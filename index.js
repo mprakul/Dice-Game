@@ -2,8 +2,8 @@
   var n1 = Math.ceil(Math.random() * 6);
   var n2 = Math.ceil(Math.random() * 6);
 
-  document.querySelector(".img1").setAttribute("src","images/dice"+n1+".png");
-  document.querySelector(".img2").setAttribute("src","images/dice"+n2+".png");
+  document.querySelector(".img1").setAttribute("src","dice"+n1+".png");
+  document.querySelector(".img2").setAttribute("src","dice"+n2+".png");
 
   var heading;
 
